@@ -1,1 +1,2 @@
 # docking
+/data/work/vina/
